@@ -1,0 +1,19 @@
+{
+    "prefix":"!",
+    "owner":["ايدي الاونر"],
+    "token":"توكن البوت",
+    "voiceRoomID" : "روم الصوتي",
+    "mainguild": "ايدي السيرفر",
+    "commandsRoom" : "ايدي روم شراء العملات",
+    "updatesRoom" : "ايدي روم التحديثات",
+    "updatesRoomWebhookUrl" : "",
+    "database":"رابط المونجو",
+    "purchaseWebhookUrl" : "",
+    "joinLeaveWebhookUrl" : "",
+    "buyTokenLogsWebhookUrl" : "",
+    "reportLogsWebhookUrl" : "",
+    "suggestionsLogsWebhookUrl" : "",
+    "subsLogsWebhookUrl" : "",
+    "makerSubsLogsWebhookUrl" : "",
+    "WEBHOOK_URL" : ""
+}
